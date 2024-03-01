@@ -1,0 +1,20 @@
+﻿  Camera.cpp
+  main.cpp
+C:\Users\Razvan\Documents\UTCN\UTCN\An 3\Sem 1\PG\proiect_final\project\project\main.cpp(140,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan\Documents\UTCN\UTCN\An 3\Sem 1\PG\proiect_final\project\project\main.cpp(141,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan\Documents\UTCN\UTCN\An 3\Sem 1\PG\proiect_final\project\project\main.cpp(145,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan\Documents\UTCN\UTCN\An 3\Sem 1\PG\proiect_final\project\project\main.cpp(146,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan\Documents\UTCN\UTCN\An 3\Sem 1\PG\proiect_final\project\project\main.cpp(147,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Razvan\Documents\UTCN\UTCN\An 3\Sem 1\PG\proiect_final\project\project\main.cpp(148,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  SkyBox.cpp
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Window.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1717 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  project.vcxproj -> C:\Users\Razvan\Documents\UTCN\UTCN\An 3\Sem 1\PG\proiect_final\project\x64\Release\project.exe
